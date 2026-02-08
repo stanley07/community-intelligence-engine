@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "language": "en",
+      "text": "We have not received food supplies for three days."
+    },
+    {
+      "id": 2,
+      "language": "ha",
+      "text": "Yara na fama da rashin magani a asibitinmu."
+    },
+    {
+      "id": 3,
+      "language": "fr",
+      "text": "Plusieurs enfants sont malades depuis hier."
+    },
+    {
+      "id": 4,
+      "language": "en",
+      "text": "People are trying to organize transport to the city."
+    },
+    {
+      "id": 5,
+      "language": "sw",
+      "text": "Mvua kubwa imeharibu barabara."
+    },
+    {
+        "id": 6,
+        "language": "ig",
+        "text": "Anyi neje olu ugbo."
+    }
+  ]
+  
